@@ -7,7 +7,8 @@ Install requirements.
 ## How to use
 Put a text file which contains web-sites' ulrs you want to monitor as a parameter. Each url on a new line.
 See the example below. 
-```python.exe E:/GitHub/devman/17_sites_monitoring/check_sites_health.py sites.txt
+```
+python.exe E:/GitHub/devman/17_sites_monitoring/check_sites_health.py sites.txt
 1) https://devman.org/
 Status code - 200
 Days to expiration - 81
